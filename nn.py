@@ -193,7 +193,7 @@ class SimpleNetwork:
         """
 
         for _ in range(0, iterations):
-            # Calculate the gradients for the current set of inputs and expected outputs
+            # Calculate the gradients from the current set of inputs and expected outputs
             gradients = self.gradients(input_matrix, output_matrix)
             # Iterate over each set of gradients and corresponding weight matrices
             for grad, weight in zip(gradients, self.weights):
