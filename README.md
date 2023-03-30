@@ -1,9 +1,14 @@
 # Objectives
 
-The learning objectives of this assignment are to:
+The learning objectives of this assignment are to: (No tensorflows)
 1. implement feed-forward prediction for a single layer neural network 
 2. implement training via back-propagation for a single layer neural network 
 
+
+Use command to test code: (Functions in nn.py)
+  pytest test_nn.py
+  
+-------------------------------------------------------------------------------
 # Setup your environment
 
 You will need to set up an appropriate coding environment on whatever computer
