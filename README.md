@@ -6,7 +6,7 @@ The learning objectives of this assignment are to: (No tensorflows)
 
 
 Use command to test code: (Functions in nn.py)
-  pytest test_nn.py
+* pytest test_nn.py
   
 -------------------------------------------------------------------------------
 # Setup your environment
